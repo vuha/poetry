@@ -2,6 +2,7 @@ Once upon a midnight dreary as I pondered weak and weary
 Over many a quaint and curious volume of forgotten lore
 While I nodded, nearly napping suddenly there came a tapping
 As of someone gently rapping--rapping at my chamber door
+"'Tis some visitor," I muttered, "Tapping at my chamber door."
 
 Ah distinctly I remember it was in the bleak December
 And each separate dying ember wrought its ghost upon the floor
@@ -12,4 +13,6 @@ Nameless here--forevermore
 
 And the silky sad uncertain rustling of each purple curtain
 Filled me--thrilled me!--with fantastic terrors never felt before
+So that now, to still the beating of my heart I stood repeating
+
 
