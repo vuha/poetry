@@ -1,4 +1,4 @@
-total 8
+total 8000
 drwxr-xr-x@  10 tlberglund  staff   340 Feb  5 18:35 Box Documents
 drwx------+   5 tlberglund  staff   170 Feb 24 02:46 Desktop
 drwx------+  49 tlberglund  staff  1666 Dec 11 14:29 Documents
